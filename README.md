@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ojigs
 - 👀 I’m interested in HTML, CSS, JavaScript
-- 🌱 I’m currently learning CSS3
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on open source front end projects
 - 📫 How to reach me awesomeemoj@gmail.com
 
