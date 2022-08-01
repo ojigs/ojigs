@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ojigs
 - 👀 I’m interested in HTML, CSS, JavaScript
 - 🌱 I’m currently working on fullstack projects using the MERN stack
-- 💞️ I’m looking to collaborate on open source front end projects
+- 💞️ I’m looking to collaborate on open source, and fullstack projects
 - 📫 How to reach me awesomeemoj@gmail.com
 
 <!---
